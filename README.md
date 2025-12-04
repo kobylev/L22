@@ -124,25 +124,25 @@ This laboratory demonstrates four critical phenomena in LLM context window behav
 
 **Conclusion**: This experiment demonstrates the "Lost in the Middle" phenomenon. The LLM's ability to retrieve a critical fact is significantly lower when the fact is placed in the middle of the document compared to when it is at the beginning or end. This highlights the importance of placing critical information at the beginning or end of the context window for better retrieval. [1]
 
-![Experiment 1 Plot](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/src/data/results/experiment1/accuracy_by_position.png)
+![Experiment 1 Plot](src/data/results/experiment1/accuracy_by_position.png)
 
 ### Experiment 2: Context Window Size Impact
 
 **Conclusion**: This experiment demonstrates a clear trade-off between context window size and performance. As the context window size increases, the LLM's accuracy tends to decrease, and its response time (latency) increases. [1] This shows that while larger context windows can hold more information, they can also lead to performance degradation.
 
-![Experiment 2 Plot](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/src/data/results/experiment2/context_size_impact.png)
+![Experiment 2 Plot](src/data/results/experiment2/context_size_impact.png)
 
 ### Experiment 3: RAG Impact
 
 **Conclusion**: This experiment shows that the Retrieval-Augmented Generation (RAG) approach is significantly more efficient and effective than the full context approach. The RAG method results in higher accuracy, much lower latency, and a drastic reduction in the number of tokens processed. [1] This demonstrates the value of using a retrieval system to provide targeted, relevant information to the LLM instead of overwhelming it with a large, noisy context.
 
-![Experiment 3 Plot](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/src/data/results/experiment3/rag_vs_full.png)
+![Experiment 3 Plot](src/data/results/experiment3/rag_vs_full.png)
 
 ### Experiment 4: Context Engineering Strategies
 
 **Conclusion**: This experiment shows that sophisticated context management strategies like COMPRESS and WRITE outperform the naive SELECT strategy. The WRITE strategy, by explicitly extracting and retrieving key facts, maintains the highest and most stable accuracy while keeping the context size low. [1] The COMPRESS strategy offers a balance between performance and context size. The SELECT strategy's performance degrades as the history grows and important information is lost.
 
-![Experiment 4 Plot](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/src/data/results/experiment4/strategy_performance.png)
+![Experiment 4 Plot](src/data/results/experiment4/strategy_performance.png)
 
 ---
 
