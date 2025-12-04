@@ -1,0 +1,32 @@
+# Context Windows Laboratory - Requirements
+# Python 3.10+
+
+# Core dependencies
+python>=3.10
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Jupyter (optional, for notebooks)
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Logging and utilities
+python-dotenv>=1.0.0
+
+# Note: This is a simplified version for mock experiments
+# For real LLM integration, add:
+# langchain>=0.1.0
+# langchain-community>=0.0.20
+# chromadb>=0.4.0
+# ollama>=0.1.0
+# sentence-transformers>=2.2.0
