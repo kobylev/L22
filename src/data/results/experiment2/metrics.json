@@ -1,0 +1,37 @@
+[
+  {
+    "num_docs": 2,
+    "tokens_used": 1105,
+    "latency": 0.3314526081085205,
+    "accuracy": 1.0,
+    "context_length": 4421
+  },
+  {
+    "num_docs": 5,
+    "tokens_used": 2884,
+    "latency": 0.682715892791748,
+    "accuracy": 0.0,
+    "context_length": 11536
+  },
+  {
+    "num_docs": 10,
+    "tokens_used": 5686,
+    "latency": 1.2529311180114746,
+    "accuracy": 1.0,
+    "context_length": 22747
+  },
+  {
+    "num_docs": 20,
+    "tokens_used": 10944,
+    "latency": 2.296571969985962,
+    "accuracy": 1.0,
+    "context_length": 43776
+  },
+  {
+    "num_docs": 50,
+    "tokens_used": 27965,
+    "latency": 5.699258804321289,
+    "accuracy": 0.0,
+    "context_length": 111860
+  }
+]

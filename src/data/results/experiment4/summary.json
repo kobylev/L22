@@ -1,0 +1,17 @@
+{
+  "select": {
+    "average_accuracy": 0.8013191580939181,
+    "average_tokens": 600.8,
+    "total_actions": 10
+  },
+  "compress": {
+    "average_accuracy": 0.7506617765019759,
+    "average_tokens": 833.1,
+    "total_actions": 10
+  },
+  "write": {
+    "average_accuracy": 0.8920593658085867,
+    "average_tokens": 54.0,
+    "total_actions": 10
+  }
+}

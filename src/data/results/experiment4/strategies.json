@@ -1,0 +1,188 @@
+{
+  "select": [
+    {
+      "action": 1,
+      "accuracy": 0.946653807639703,
+      "context_tokens": 127,
+      "history_size": 1
+    },
+    {
+      "action": 2,
+      "accuracy": 0.869208710533926,
+      "context_tokens": 265,
+      "history_size": 2
+    },
+    {
+      "action": 3,
+      "accuracy": 0.886649115647804,
+      "context_tokens": 409,
+      "history_size": 3
+    },
+    {
+      "action": 4,
+      "accuracy": 0.7532010431755132,
+      "context_tokens": 582,
+      "history_size": 4
+    },
+    {
+      "action": 5,
+      "accuracy": 0.7198697836424732,
+      "context_tokens": 760,
+      "history_size": 5
+    },
+    {
+      "action": 6,
+      "accuracy": 0.7164111129766726,
+      "context_tokens": 764,
+      "history_size": 6
+    },
+    {
+      "action": 7,
+      "accuracy": 0.7763278149524975,
+      "context_tokens": 790,
+      "history_size": 7
+    },
+    {
+      "action": 8,
+      "accuracy": 0.7480550948013627,
+      "context_tokens": 775,
+      "history_size": 8
+    },
+    {
+      "action": 9,
+      "accuracy": 0.8209871035856644,
+      "context_tokens": 783,
+      "history_size": 9
+    },
+    {
+      "action": 10,
+      "accuracy": 0.7758279939835638,
+      "context_tokens": 753,
+      "history_size": 10
+    }
+  ],
+  "compress": [
+    {
+      "action": 1,
+      "accuracy": 0.8651816703697881,
+      "context_tokens": 132,
+      "history_size": 1
+    },
+    {
+      "action": 2,
+      "accuracy": 0.8543298631625369,
+      "context_tokens": 299,
+      "history_size": 2
+    },
+    {
+      "action": 3,
+      "accuracy": 0.9326293656516736,
+      "context_tokens": 432,
+      "history_size": 3
+    },
+    {
+      "action": 4,
+      "accuracy": 0.7693536115486695,
+      "context_tokens": 601,
+      "history_size": 4
+    },
+    {
+      "action": 5,
+      "accuracy": 0.805056010520063,
+      "context_tokens": 745,
+      "history_size": 5
+    },
+    {
+      "action": 6,
+      "accuracy": 0.8058537389104671,
+      "context_tokens": 908,
+      "history_size": 6
+    },
+    {
+      "action": 7,
+      "accuracy": 0.5623044161870048,
+      "context_tokens": 1065,
+      "history_size": 7
+    },
+    {
+      "action": 8,
+      "accuracy": 0.6404633124417847,
+      "context_tokens": 1237,
+      "history_size": 8
+    },
+    {
+      "action": 9,
+      "accuracy": 0.597242954346401,
+      "context_tokens": 1378,
+      "history_size": 9
+    },
+    {
+      "action": 10,
+      "accuracy": 0.6742028218813696,
+      "context_tokens": 1534,
+      "history_size": 10
+    }
+  ],
+  "write": [
+    {
+      "action": 1,
+      "accuracy": 0.8870843240922398,
+      "context_tokens": 27,
+      "history_size": 1
+    },
+    {
+      "action": 2,
+      "accuracy": 0.8811005465549321,
+      "context_tokens": 27,
+      "history_size": 2
+    },
+    {
+      "action": 3,
+      "accuracy": 0.863609068754001,
+      "context_tokens": 54,
+      "history_size": 3
+    },
+    {
+      "action": 4,
+      "accuracy": 0.8943615184682452,
+      "context_tokens": 54,
+      "history_size": 4
+    },
+    {
+      "action": 5,
+      "accuracy": 0.8985706240458915,
+      "context_tokens": 54,
+      "history_size": 5
+    },
+    {
+      "action": 6,
+      "accuracy": 0.9296839687768255,
+      "context_tokens": 54,
+      "history_size": 6
+    },
+    {
+      "action": 7,
+      "accuracy": 0.872220128788143,
+      "context_tokens": 54,
+      "history_size": 7
+    },
+    {
+      "action": 8,
+      "accuracy": 0.8660351293264229,
+      "context_tokens": 54,
+      "history_size": 8
+    },
+    {
+      "action": 9,
+      "accuracy": 0.9062594128832695,
+      "context_tokens": 81,
+      "history_size": 9
+    },
+    {
+      "action": 10,
+      "accuracy": 0.9216689363958955,
+      "context_tokens": 81,
+      "history_size": 10
+    }
+  ]
+}

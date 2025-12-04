@@ -1,0 +1,6 @@
+{
+  "total_tests": 5,
+  "average_accuracy": 0.6,
+  "average_latency": 2.052586078643799,
+  "max_tokens_tested": 27965
+}

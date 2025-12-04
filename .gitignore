@@ -21,10 +21,7 @@ wheels/
 *.egg
 
 # Virtual Environment
-venv/
-env/
-ENV/
-.venv
+
 
 # IDE
 .vscode/
@@ -38,15 +35,10 @@ ENV/
 .env
 *.env.local
 
-# Results and data
-src/data/results/
+# Data - Keep generated documents and cache out of git
 src/data/vectordb/
 src/data/cache/
 src/data/documents/*.txt
-
-# Logs
-*.log
-logs/
 
 # Jupyter Notebook
 .ipynb_checkpoints
